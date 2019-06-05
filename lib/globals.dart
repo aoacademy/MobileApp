@@ -1,0 +1,13 @@
+bool isLoggedIn = false;
+var userName;
+var userToken;
+var userPicture = 'NO LINK';
+var packageId;
+var packageName;
+var packageNodeNum;
+var packageProjectNum;
+var packageTime;
+var packagePrice;
+var packageIsActive;
+var tokenGetTime;
+var packageStartDate;
